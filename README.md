@@ -1,2 +1,2 @@
-# Desafio1BootJavaScript-Dio
+# Desafio-PrimeiroBootcamp-JavaScript-Dio
 Desafio de Projeto Sobre Git/GitHub
