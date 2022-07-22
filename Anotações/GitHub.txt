@@ -1,5 +1,24 @@
 
-
 Link do Repositório -Desafio 1 :
-
 https://github.com/PryscilaOliveira/Desafio1BootJavaScript-Dio
+
+Comandos do Git Bash:
+
+git clone https://github.com/PryscilaOliveira/Desafio1BootJavaScript-Dio.git
+                                                 (colar o link do repositório)
+cd https://github.com/PryscilaOliveira/Desafio1BootJavaScript-Dio.git
+                                                 (entrar no repositório)
+git status 
+                                                (diagnostico)
+
+git add .                                 
+
+                                               (adionar nova pasta)
+git commit -m "Inclusão das Anotações do Curso de Git/GitHub"
+
+COMMIT= comitar
+-m= comentário 
+
+git push origin main
+                                               (subir pasta para GitHub)
+
